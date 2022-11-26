@@ -1,3 +1,5 @@
+//왕실의 나이트 p118
+
 import java.util.*;
 
 public class P7 {
